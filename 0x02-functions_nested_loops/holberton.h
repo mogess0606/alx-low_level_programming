@@ -1,4 +1,3 @@
-Abebe Classss, [01.09.21 04:58]
 #include "main.h"
 
 /**
