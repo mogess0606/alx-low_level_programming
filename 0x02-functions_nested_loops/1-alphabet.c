@@ -3,7 +3,6 @@
  *
  *
  *
- *
 
  * print_alphabet - Check description
 
