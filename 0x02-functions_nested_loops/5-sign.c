@@ -1,8 +1,6 @@
 #include "main.h"
 
 
-
-
 /**
  * print_sign - Check ALX Holberton
  * @n: An input number
