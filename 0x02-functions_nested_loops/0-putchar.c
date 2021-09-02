@@ -1,16 +1,14 @@
-#include "0-holberton.c"
-
+#include "main.h"
 
 /**
- * add - Check Holberton
- * @a: An integer a
- * @b: An integer b
- * Description: Function that adds two integers and returns the result
- * Return: Result to add a and b
+ * print_alphabet - prints the alphabet in lowercase, followed by a new line.
  */
-
-int add(int a, int b)
-
+void print_alphabet(void)
 {
-  return (a + b);
+	char letter;
+
+	for (letter = 'a'; letter <= 'z'; letter++)
+		_putchar(letter);
+
+	_putchar('\n');
 }
