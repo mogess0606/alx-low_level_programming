@@ -16,8 +16,6 @@ int print_sign(int n)
 int value;
 
 
-
-
 if (n > 0)
 
 {
