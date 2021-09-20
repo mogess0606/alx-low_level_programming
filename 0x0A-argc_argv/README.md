@@ -1,1 +1,1 @@
-Low level programmig Argc argv 
+This is argument on C
