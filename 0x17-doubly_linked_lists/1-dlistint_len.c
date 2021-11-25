@@ -13,5 +13,3 @@ size_t dlistint_len(const dlistint_t *h)
 	/* Sumetion */
 	return (1 + dlistint_len(h->next));
 }
-
-© 2021 
